@@ -1,0 +1,8 @@
+{
+  "name": "Herramienta Mip 1000 ip by ING Ricardo Rodriguez",
+  "description": "Herramienta móvil para técnicos de campo de portería en la nube, apertura de puertas XRE 1000, testeo SIP ALG, voz IP y cámaras RTSP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

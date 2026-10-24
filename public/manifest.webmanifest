@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Herramienta Mip 1000 ip by ING Ricardo Rodriguez",
+  "short_name": "MIP 1000",
+  "description": "Herramienta móvil para técnicos de campo de portería en la nube, apertura de puertas XRE 1000, testeo SIP ALG, voz IP y cámaras RTSP.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
